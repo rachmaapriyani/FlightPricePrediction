@@ -1,3 +1,3 @@
-![](https://github.com/rachmaapriyani/rachmaapriyani/blob/main/flight.gif)
+<img src="https://github.com/rachmaapriyani/FlightPricePrediction/blob/main/flight.gif"/>
 
-# FlightPricePrediction
+## Flight Price Prediction
